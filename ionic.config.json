@@ -1,0 +1,7 @@
+{
+  "name": "nativoCamara",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
